@@ -8,7 +8,9 @@ https://classroom.github.com/a/i2sKfMnu
 2.	Click “Accept this assignment”
 3.	Once this is completed, your repository will be created. Please click on the assignment repository link.
 4.	The code changes can be done directly by editing the sample.py file or the repository can be downloaded to edit the code and then be uploaded.
+   
    **4.1.	To Edit the code directly:** click on the sample.py file and click the edit icon in the top right corner of the online editor. After making the changes, click commit and select “commit directly to the main branch”. Then click “commit changes” button and your assignment will be submitted.
+  
    **4.2.	To download the repository:**
         4.2.1.	 Above the list of files, click <>Code and Copy the URL for the repository. 
         4.2.2.	Open Git Bash. 
