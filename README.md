@@ -1,2 +1,2 @@
 # Testcase_Add
-A Template repository for addition of two numbers
+A Template repository to calculate the sum and difference of two numbers
