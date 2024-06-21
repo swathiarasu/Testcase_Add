@@ -16,7 +16,7 @@ https://classroom.github.com/a/i2sKfMnu
         4.2.1.	 Above the list of files, click <>Code and Copy the URL for the repository. 
         4.2.2.	Open Git Bash.
         4.2.3.	Change the current working directory to the location where you want the cloned directory.
-        cd PATH 
+                 cd PATH 
         4.2.4.	Type git clone, and then paste the URL you copied earlier.
                 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
         4.2.5.	Press Enter to create your local clone.
